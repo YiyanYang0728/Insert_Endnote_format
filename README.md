@@ -37,3 +37,5 @@ For example:
 6. {Konneke, 2005 #33}
 7. planktonic marine archaea|2019|Santoro
 7. {Santoro, 2019 #424}
+
+Finally，remember to click "Update Citations & Bibliography" in Word's Endnote Tab to activate inserted format!!!!!!
