@@ -1,0 +1,166 @@
+1. archaeal dominance in the meso|2001|Karner
+1. {Karner, 2001 #26}
+2. archaea in coastal marine envi|1992|DeLong
+2. {DeLong, 1992 #15}
+3. novel major archaebacterial gr|1992|Fuhrman
+3. {Fuhrman, 1992 #18}
+4. archaeal and bacterial ammonia|2012|Prosser
+4. {Prosser, 2012 #49}
+5. ammonia oxidation kinetics det|2009|Martens-Habbena
+5. {Martens-Habbena, 2009 #42}
+6. isolation of an autotrophic am|2005|Konneke
+6. {Konneke, 2005 #33}
+7. planktonic marine archaea|2019|Santoro
+7. {Santoro, 2019 #424}
+8. the cycling and redox state of|2009|Godfrey
+8. {Godfrey, 2009 #20}
+9. emerging biogeochemical views |2015|Lyons
+9. {Lyons, 2015 #96}
+10. unravelling ancient microbial |2009|Brocks
+10. {Brocks, 2009 #8}
+11. nitrogen isotope signatures of|2018|Delarue
+11. {Delarue, 2018 #14}
+12. the geobiological nitrogen cyc|2017|Zerkle
+12. {Zerkle, 2017 #61}
+13. isotopic evidence for an aerob|2009|Garvin
+13. {Garvin, 2009 #19}
+14. massive expansion of marine ar|2001|Kuypers
+14. {Kuypers, 2001 #31}
+15. tentative identification of di|2017|Saito
+15. {Saito, 2017 #50}
+16. cultivation of a thermophilic |2008|de la Torre
+16. {de la Torre, 2008 #12}
+17. thermophilic temperature optim|2006|Zhang
+17. {Zhang, 2006 #58}
+18. phylogenomics suggests oxygen |2019|Ren
+18. {Ren, 2019 #423}
+19. coupling of diversification an|2015|Gubry-Rangin
+19. {Gubry-Rangin, 2015 #23}
+20. integrated genomic and fossil |2018|Betts
+20. {Betts, 2018 #83}
+21. bacterial diversification thro|2018|Louca
+21. {Louca, 2018 #40}
+22. raxml version 8: a tool for ph|2014|Stamatakis
+22. {Stamatakis, 2014 #66}
+23. reliable confidence intervals |2019|Tao
+23. {Tao, 2019 #426}
+24. theoretical foundation of the |2018|Tamura
+24. {Tamura, 2018 #422}
+25. fast and accurate estimates of|2016|Mello
+25. {Mello, 2016 #418}
+26. estimating divergence times in|2012|Tamura
+26. {Tamura, 2012 #421}
+27. rooting the domain archaea by |2015|Petitjean
+27. {Petitjean, 2015 #65}
+28. iq-tree: a fast and effective |2014|Nguyen
+28. {Nguyen, 2014 #415}
+29. bamm tools: an r package for t|2014|Rabosky
+29. {Rabosky, 2014 #407}
+30. macroevolutionary speciation r|2013|Rabosky
+30. {Rabosky, 2013 #409}
+31. rates of speciation and morpho|2013|Rabosky
+31. {Rabosky, 2013 #408}
+32. paml 4: phylogenetic analysis |2007|Yang
+32. {Yang, 2007 #428}
+33. horizontal gene transfer const|2018|Wolfe
+33. {Wolfe, 2018 #427}
+34. phylogenomic dating—a method o|2009|Blank
+34. {Blank, 2009 #410}
+35. an expansion of age constraint|2011|Blank
+35. {Blank, 2011 #68}
+36. the rise of oxygen in earth's |2014|Lyons
+36. {Lyons, 2014 #41}
+37. stepwise oxygenation of the pa|2018|Krause
+37. {Krause, 2018 #414}
+38. copse reloaded: an improved mo|2018|Lenton
+38. {Lenton, 2018 #412}
+39. the neoproterozoic oxygenation|2012|Och
+39. {Och, 2012 #419}
+40. the paleoproterozoic snowball |2005|Kopp
+40. {Kopp, 2005 #416}
+41. snowball earth climate dynamic|2017|Hoffman
+41. {Hoffman, 2017 #86}
+42. a cryogenian chronology: two l|2015|Rooney
+42. {Rooney, 2015 #72}
+43. assembly, configuration, and b|2008|Li
+43. {Li, 2008 #321}
+44. a full-plate global reconstruc|2017|Merdith
+44. {Merdith, 2017 #449}
+45. formation of supercontinents l|2008|Campbell
+45. {Campbell, 2008 #453}
+46. ammonia oxidation is not requi|2015|Weber
+46. {Weber, 2015 #430}
+47. niche specialization of novel |2014|Beam
+47. {Beam, 2014 #431}
+48. metabolic potential of fatty a|2015|Lin
+48. {Lin, 2015 #432}
+49. atmospheric oxygenation three |2013|Crowe
+49. {Crowe, 2013 #413}
+50. evidence for oxygenic photosyn|2014|Planavsky
+50. {Planavsky, 2014 #420}
+51. atmospheric oxygen regulation |2017|Daines
+51. {Daines, 2017 #105}
+52. unifying the global phylogeny |2018|Alves
+52. {Alves, 2018 #434}
+53. qiime allows analysis of high-|2010|Caporaso
+53. {Caporaso, 2010 #77}
+54. phylogenetic rooting using min|2017|Tria
+54. {Tria, 2017 #435}
+55. ocean redox conditions between|2018|Scheller
+55. {Scheller, 2018 #107}
+56. a neoproterozoic snowball eart|1998|Hoffman
+56. {Hoffman, 1998 #452}
+57. continental arc volcanism as t|2016|McKenzie
+57. {McKenzie, 2016 #450}
+58. influence of oxygen availabili|2017|Qin
+58. {Qin, 2017 #73}
+59. biogeochemical transformations|2017|Lenton
+59. {Lenton, 2017 #93}
+60. the evolution of the marine ph|2010|Planavsky
+60. {Planavsky, 2010 #98}
+61. evolution of the global phosph|2017|Reinhard
+61. {Reinhard, 2017 #100}
+62. the marine nitrogen cycle: ove|2008|Gruber
+62. {Gruber, 2008 #92}
+63. ocean oxygenation in the wake |2012|Sahoo
+63. {Sahoo, 2012 #438}
+64. oceanic oxygenation events in |2016|Sahoo
+64. {Sahoo, 2016 #437}
+65. late-neoproterozoic deep-ocean|2007|Canfield
+65. {Canfield, 2007 #9}
+66. ferruginous conditions dominat|2008|Canfield
+66. {Canfield, 2008 #91}
+67. heterogeneous and dynamic mari|2018|Li
+67. {Li, 2018 #38}
+68. earliest land plants created m|2016|Lenton
+68. {Lenton, 2016 #440}
+69. uranium isotope evidence for t|2018|Clarkson
+69. {Clarkson, 2018 #441}
+70. expansion of thaumarchaeota ha|2019|Wang
+70. {Wang, 2019 #442}
+71. spotlight on the thaumarchaeot|2012|Brochier-Armanet
+71. {Brochier-Armanet, 2012 #5}
+72. bacterial gene import and meso|2015|López-García
+72. {López-García, 2015 #443}
+73. pangenome evidence for extensi|2014|Deschamps
+73. {Deschamps, 2014 #13}
+74. origins of major archaeal clad|2015|Nelson-Sathi
+74. {Nelson-Sathi, 2015 #444}
+75. crenarchaeol the characteristi|2002|Damsté
+75. {Damsté, 2002 #317}
+76. thermophilic temperature optim|2006|Zhang
+76. {Zhang, 2006 #58}
+77. cobalt: constraint-based align|2007|Papadopoulos
+77. {Papadopoulos, 2007 #445}
+78. bmge (block mapping and gather|2010|Criscuolo
+78. {Criscuolo, 2010 #76}
+80. r8s: inferring absolute rates |2003|Sanderson
+80. {Sanderson, 2003 #67}
+81. mega x: molecular evolutionary|2018|Kumar
+81. {Kumar, 2018 #448}
+82. partitionfinder 2: new methods|2017|Lanfear
+82. {Lanfear, 2017 #80}
+83. the relative influences of nit|1999|Tyrrell
+83. {Tyrrell, 1999 #102}
+84. the effects of marine eukaryot|2018|Lenton
+84. {Lenton, 2018 #35}
