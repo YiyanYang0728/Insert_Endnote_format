@@ -1,7 +1,7 @@
 # Insert_Endnote_format
 ###This program is useful when you have unconnected your paper with Endnote but you have to insert all the citations again.
 
-####INPUT FILES
+####INPUT FILES  
 My programe can read `a Endnote library TXT file containing all of the references` already cited in your paper but in a plain text form.
 You can get this file by:
 Open Endnote->Select all the references in your endnote->File->Export->Save type: Text file & Output style: show all fields->Save
@@ -20,7 +20,7 @@ Tips: [Number][.][\t][Author_LastName1][Author_MiddleNameFirstName1][, OR & ][Au
 `Notice`: Your list must be in the style just like the below one or the programe won't recognize it (actually it is the PNAS format). 
 But I will try to figure this out in the future.
 
-###OUTPUT FILE
+###OUTPUT FILE  
 And the programe will output the corresponding Endnote insert format you can paste directly into your paper:
 For example:
 1. archaeal dominance in the meso|2001|Karner[Notice: This line is for checking]
