@@ -72,8 +72,9 @@ def get_Endnote_insert_format(endnote_file, paper_ref_file, outfile):
         else:
             #Not find this paper's record number
             print(No, paper_ref[No])
-            print('Not find this reference's Record Number!')
-            print(paper_ref[No][2].lower()[:30], paper_ref[No][1], paper_ref[No][0].split(',')[0].split()[0])
+            print("Not find this reference's Record Number!")
+            print(paper_ref[No][2].lower()[:30], paper_ref[No][1], \
+                  paper_ref[No][0].split(',')[0].split()[0])
     g.close()
 
 if __name__ == '__main__':
