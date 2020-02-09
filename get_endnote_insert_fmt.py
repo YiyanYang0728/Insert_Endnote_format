@@ -74,7 +74,7 @@ def get_Endnote_insert_format(endnote_file, paper_ref_file, outfile):
 
 if __name__ == '__main__':
     endnote_file = r'Example_input_exported_endnote_style.txt'
-    paper_ref_file = r'Example_input_Paper_reference_list.txt'
-    outfile = r'Example_output_Insert_format.txt'
+    paper_ref_file = r'Example_input_paper_reference_list.txt'
+    outfile = r'Example_output_insert_format.txt'
     get_Endnote_insert_format(endnote_file, paper_ref_file, outfile)
     
