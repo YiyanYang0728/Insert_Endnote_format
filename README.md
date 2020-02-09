@@ -23,8 +23,8 @@ But I will try to figure this out in the future.
 ###OUTPUT FILE  
 And the programe will output the corresponding Endnote insert format you can paste directly into your paper:  
 For example:
-1. archaeal dominance in the meso|2001|Karner[Notice: This line is for checking]
-1. {Karner, 2001 #26}[This is the Endnote Insert Format]
+1. archaeal dominance in the meso|2001|Karner <-This line is for checking
+1. {Karner, 2001 #26} <-This is the Endnote Insert Format]
 2. archaea in coastal marine envi|1992|DeLong
 2. {DeLong, 1992 #15}
 3. novel major archaebacterial gr|1992|Fuhrman
