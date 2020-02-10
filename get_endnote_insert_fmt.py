@@ -46,7 +46,7 @@ def get_Endnote_insert_format(endnote_file, paper_ref_file, outfile):
     
     ###Write Endnote insert format into outfile
     g = open(outfile, 'w')
-    for i in range(1, len(paper_ref)+2):
+    for i in sorted(map(int, paper_ref.keys())):
         No = str(i)
         print(No)
         if No not in paper_ref:
